@@ -1,0 +1,20 @@
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.Properties.Resources.resources
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.csproj.GenerateResource.Cache
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\bin\Debug\topoyunu.exe
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\bin\Debug\topoyunu.pdb
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.exe
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.pdb
+c:\users\mustafa-sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.playground.resources
+C:\Users\Mustafa-Sead\documents\visual studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa-Sead\Documents\Visual Studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.girisEkrani.resources
+C:\Users\Mustafa-Sead\Documents\Visual Studio 2010\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.Bitis.resources
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.exe
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.pdb
+D:\sead\program\Projects\topoyunu\topoyunu\bin\Debug\topoyunu.exe
+D:\sead\program\Projects\topoyunu\topoyunu\bin\Debug\topoyunu.pdb
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.csprojResolveAssemblyReference.cache
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.Bitis.resources
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.playground.resources
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.girisEkrani.resources
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.Properties.Resources.resources
+D:\sead\program\Projects\topoyunu\topoyunu\obj\x86\Debug\topoyunu.csproj.GenerateResource.Cache
