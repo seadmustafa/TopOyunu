@@ -1,22 +1,22 @@
-# <p align="center">BM299 Staj Raporu </p> 
-
+# <p align="center" >BM299 Staj Raporu </p> 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 # İçindekiler Tablosu
 
 1. [Giriş](#giris)
 2. [Şirket Hakkında Bilgi](#sirket)
 3. [Projenin ve Yapılacak olan İşin Tanımı](#proje-tanimi)
-	3.1 [Yapılan İş](#yapilanis)
-	3.2 [Amaç](#amac)
-	3.3 [Tanım](#tanim)  
+	* 3.1 [Yapılan İş](#yapilanis)
+	* 3.2 [Amaç](#amac)
+	* 3.3 [Tanım](#tanim)  
   3.4 [Süreç ve İşleyiş](#surec)
 4. [Proje](#proje)
-  4.1 [Amaç](#projeamaci)
-	4.2 [Tanım](#projetanimi)
-	4.3 [Gereksinimler ve İhtiyaçlar](#gereksinimler)
-  4.4 [Analiz](#analiz)
-  4.5 [Gelişim Süreci](#gelisimsureci)
-  4.6 [Test ve Uygulama](#testveuygulama)
-  4.7 [Proje Sonucu](#projesonucu) 
+	* 4.1 [Amaç](#projeamaci)
+	* 4.2 [Tanım](#projetanimi)
+  	* 4.3 [Gereksinimler ve İhtiyaçlar](#gereksinimler)
+  	* 4.4 [Analiz](#analiz)
+  	* 4.5 [Gelişim Süreci](#gelisimsureci)
+  	* 4.6 [Test ve Uygulama](#testveuygulama)
+  	* 4.7 [Proje Sonucu](#projesonucu) 
 5. [Sonuç](#sonuc)
 6. [Kaynaklar](#kaynaklar)
  
